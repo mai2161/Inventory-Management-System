@@ -43,11 +43,6 @@ pip install fastapi uvicorn sqlalchemy qrcode[pil] python-multipart
 # Start the FastAPI server
 uvicorn app.main:app --reload
 ```
-
-📌 **Backend URLs**
-- API: http://127.0.0.1:8000  
-- Swagger UI: http://127.0.0.1:8000/docs  
-
 ---
 
 ### 3️⃣ Frontend Setup (React)
